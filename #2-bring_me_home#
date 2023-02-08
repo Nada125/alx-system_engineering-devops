@@ -1,0 +1,7 @@
+#!/bin/bash
+<<<<<<< HEAD
+cd /root
+
+=======
+cd /home
+>>>>>>> 3a4ab1eb7a8d52e73f3c947cdc227dedaf49b54b
