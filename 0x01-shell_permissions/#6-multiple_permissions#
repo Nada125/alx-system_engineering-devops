@@ -1,0 +1,4 @@
+#!/bin/bash
+chown u+x,g+x,o+rhello
+6-multiple_permissions
+
