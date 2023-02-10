@@ -1,0 +1,3 @@
+#!/bin/bash
+chgrp school hello
+13-change_group
