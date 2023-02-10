@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod --reference-ollh hello
+chmod --reference=olleh hello
+10-mirror_permissions
